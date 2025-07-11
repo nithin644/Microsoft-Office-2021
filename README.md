@@ -17,20 +17,20 @@ Before you start, ensure that the operating system version you’re running is W
 
 Installing **Microsoft Office 2021**, takes several minutes, depending on your internet speed.
 
-![Installing Office](https://raw.githubusercontent.com/su-sid/Microsoft-Office-2021/main/assets/Installing-Office.jpg)
+![Installing Office](https://github.com/user-attachments/assets/12152d10-0437-444b-9da0-7951e3c18c15)
 
 Once you complete the installation, all Office apps will run under a 7-day trial license.
 
 
 
-![Activation Required](https://raw.githubusercontent.com/su-sid/Microsoft-Office-2021/main/assets/Activation-Required.jpg)
+![Activation Required](https://github.com/user-attachments/assets/d7145ab7-13b4-43bb-b70c-3b3f7c0cb24e0-7951e3c18c15)
 
 
 # Activate Microsoft Office 2021
 ## Method 1: Activate Microsoft Office 2021 using Command Prompt
 **Step 1:** Type **cmd** in search box, right click on **Command Prompt** then select **Run as administrator**.
 
-![Command-Prompt](https://raw.githubusercontent.com/su-sid/Microsoft-Office-2021/main/assets/Command-Prompt.png)
+![Command-Prompt](https://github.com/user-attachments/assets/1cd4808a-ed18-46ef-8b92-7a1ae33cfa1e)
 
 **Step 2:** Copy all below commands, **right click to paste into cmd window** at once then hit Enter.
 
@@ -45,8 +45,8 @@ pause
 ```
 **Microsoft Office 2021** was activated, and you can start using the applications without any restrictions or limitations.
 
-![Command-Prompt-Window](https://raw.githubusercontent.com/su-sid/Microsoft-Office-2021/main/assets/Command-Prompt-Activate.jpg)
+![Command-Prompt-Window](https://github.com/user-attachments/assets/ffde5317-3904-4a6b-9665-0aa3b7cc70b8)
 
-**The Final Output**
+**Product Activated**
 
 ![Image](https://github.com/user-attachments/assets/e9c9e21c-e967-482e-90ff-6a80d4ec6380)
