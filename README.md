@@ -6,8 +6,7 @@ Microsoft Office 2021
       * [Install Office 2021 using Office Deployment Tool](#install-office-2021-using-office-deployment-tool)
    * [Activate Microsoft Office 2021](#activate-microsoft-office-2021)
       * [Method 1: Activate Microsoft Office 2021 using Command Prompt](#method-1-activate-microsoft-office-2021-using-command-prompt)
-      * [Method 2: Activate Microsoft Office 2021 using Batch File](#method-2-activate-microsoft-office-2021-using-batch-file)
-
+     
 # Download and install Office 2021
 ## Install Office 2021 using Office Deployment Tool
 
